@@ -149,8 +149,8 @@ void triangle (int *row){
 					printf(" ");
 				}
 			}
-			//printf("^");
 			printf("\n");
+			//Put something here
 		}
 
 		for (int i = 1; i <*row*2 ; i++){
